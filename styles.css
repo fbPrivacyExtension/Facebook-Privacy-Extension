@@ -1,0 +1,10 @@
+
+/* Additional styling for enhanced user experience */
+.message-2qnXI6 {
+  filter: blur(5px);
+  transition: filter 0.3s ease;
+}
+
+.message-2qnXI6:hover {
+  filter: none;
+}
